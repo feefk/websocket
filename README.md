@@ -5,4 +5,4 @@ websocket
 
 base on chromium 
 
-should add gyp file for build
+should add gyp file for building
